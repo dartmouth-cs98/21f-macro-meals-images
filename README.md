@@ -1,24 +1,17 @@
-# Project Name
+# Macro Images Database
 
-![Team Photo](Insert a Team Photo URL here)
-[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+This repo hosts the images database stored using Amazon S3. The link to the database is [here](https://s3.console.aws.amazon.com/s3/buckets/macro-meals-images?region=us-east-1&tab=objects)
 
-TODO: short project description, some sample screenshots or mockups
+Other Repos: 
+
+- [Main Repo](https://github.com/dartmouth-cs98/21f-macro-meals)
+
+- [API Repo](https://github.com/dartmouth-cs98/21f-macro-meals-api) 
+
+- [Classifier Repo](https://github.com/dartmouth-cs98/21f-macro-meals-classifier) 
+
+- [Figma Board](https://www.figma.com/file/x0tpjcBSMKuImg4e0EvhlY/Initial-Sketches?node-id=0%3A1)
 
 ## Architecture
 
-TODO:  descriptions of code organization and tools and libraries used
-
-## Setup
-
-TODO: how to get the project dev environment up and running, npm install etc
-
-## Deployment
-
-TODO: how to deploy the project
-
-## Authors
-
-TODO: list of authors
-
-## Acknowledgments
+Amazon S3 (bucket: macro\_meals\_images)
